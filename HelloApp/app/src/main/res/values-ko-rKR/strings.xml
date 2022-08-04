@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">반갑습니다</string>
+    <string name="action_settings">환경설정</string>
+    <string name="first_fragment_label">화면1</string>
+    <string name="second_fragment_label">화면2</string>
+    <string name="next">다음</string>
+    <string name="previous">로그인</string>
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="welcome">환영합니다</string>
+    <string name="login_failed">로그인 실패</string>
+</resources>
